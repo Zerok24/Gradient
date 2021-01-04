@@ -1,0 +1,21 @@
+5
+Homework Assignments	5	0.25	true	false
+HW01	20
+HW02	5
+HW03	0
+HW04	10
+HW05	15
+Quizzes	5	0.25	true	true
+Quiz01	12
+Quiz02	8
+Quiz03	20
+Quiz04	13
+Quiz05	20
+Misc	2	0.10	false	false
+Attendance	40
+Participation	50
+Midterm Exams	2	0.20	false	false
+Midterm01	45
+Midterm02	40
+Final Exam	1	0.20	false	false
+Final	75
