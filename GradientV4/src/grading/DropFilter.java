@@ -7,7 +7,7 @@ import java.util.List;
  * A DropFilter can be used to drop the lowest and/or highest
  * Grade from a List.
  *
- * @author  Prof. David Bernstein, James Madison University
+ * @author Bunguiu Norales
  */
 public class DropFilter implements Filter
 {

@@ -2,7 +2,7 @@ package grading;
 /**
  * A checked exception that indicates that a size problem has occurred.
  * 
- * @author Prof. David Bernstein, James Madison University
+ * @author Bunguiu Norales
  */
 public class SizeException extends Exception
 {

@@ -2,7 +2,7 @@ package grading;
 /**
  * A utility class for working with Number objects that can be missing.
  * 
- * @author Prof. David Bernstein, James Madison University
+ * @author Bunguiu Norales
  */
 public class Missing 
 {

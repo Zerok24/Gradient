@@ -3,7 +3,7 @@ package grading;
 /**
  * The requirements of a Grade object.
  * 
- * @author Prof. David Bernstein, James Madison University
+ * @author Bunguiu Norales
  */
 public interface Grade extends Comparable<Grade>
 {

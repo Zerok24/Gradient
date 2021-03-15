@@ -5,7 +5,7 @@ import java.util.List;
  * The requirements of a strategy (in the sense of the Strategy Pattern) for
  * calculating a numeric grade from a collection of grades.
  *
- * @author  Prof. David Bernstein, James Madison University
+ * @author Bunguiu Norales
  * @version 1.0
  */
 public interface GradingStrategy

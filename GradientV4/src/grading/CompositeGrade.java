@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * A composite (in the sense of the Composite Pattern) of Grade objects.
  *
- * @author  Prof. David Bernstein, James Madison University
+ * @author Bunguiu Norales
  * @version 1.0
  */
 public class CompositeGrade extends AbstractGrade

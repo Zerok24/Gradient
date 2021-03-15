@@ -7,7 +7,7 @@ import grading.*;
 /**
  * A utility class for reading Course objects and Category objects.
  * 
- * @author  Prof. David Bernstein, James Madison University
+ * @author Bunguiu Norales
  * @version 2.0
  */
 public class CourseReader

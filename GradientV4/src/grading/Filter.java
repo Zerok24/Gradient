@@ -8,7 +8,7 @@ import java.util.List;
  * Note: A Filter does not change the underlying collection, it creates
  * a new collection that satisfies the conditions of the Filter.
  *
- * @author  Prof. David Bernstein, James Madison University
+ * @author Bunguiu Norales
  */
 public interface Filter
 {

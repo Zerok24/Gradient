@@ -6,7 +6,7 @@ import java.util.Map;
  * A GradingStrategy that calculates the weighted total of a List of Grade
  * objects.
  *
- * @author Prof. David Bernstein, James Madison University
+ * @author Bunguiu Norales
  */
 public class WeightedTotalStrategy implements GradingStrategy
 {

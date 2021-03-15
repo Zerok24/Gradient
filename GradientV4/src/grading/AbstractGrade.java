@@ -4,7 +4,7 @@ package grading;
  * A partial implementation of the Grade interface that handles the key
  * and the compareTo() method.
  * 
- * @author Prof. David Bernstein, James Madison University
+ * @author Bunguiu Norales
  */
 public abstract class AbstractGrade implements Grade
 {

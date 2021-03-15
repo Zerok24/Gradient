@@ -4,7 +4,7 @@ package grading;
  * An immutable individual (i.e., component in the sense of the
  * Composite Pattern) Grade object.
  *
- * @author  Prof. David Bernstein, James Madison University
+ * @author Bunguiu Norales
  */
 public class LeafGrade extends AbstractGrade
 {
