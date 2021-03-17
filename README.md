@@ -7,4 +7,5 @@ The are some file examples in the project.
 The program has to be run with a **command argument**, which is the **absolute path** to the .grd to be read.
 
 **This is how the interaction design looks like**
+
 ![](GradientV4/src/files/design.JPG)
