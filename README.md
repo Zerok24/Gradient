@@ -6,3 +6,4 @@ The are some file examples in the project.
 
 The program has to be run with a **command argument**, which is the **absolute path** to the .grd to be read.
 
+![](GradientV4/src/files/design.JPG)
